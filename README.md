@@ -1,10 +1,16 @@
-# Sakshi Prajapati - Data Analyst
+## Welcome to my GitHub profile! 👋
+
 
 ![image_alt](https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-19845.jpg?w=1060) 
 
-Welcome to my GitHub profile! 👋
 
-I am a passionate and detail-oriented **Data Analyst** with expertise in data visualization, reporting, and analysis. I have completed my Data Analytics training at **Masai School**, where I honed my skills in data analysis and built several projects to showcase my abilities.
+Hi! 👋 I’m **Sakshi Prajapati**, a passionate **Data Analyst** with expertise in **data visualization** 📊, **reporting** 📝, and **analysis** 🔍. 
+🎓 I’ve completed my training in Data Analytics at **Masai School** ,🎯 where I developed a strong foundation in analyzing and transforming data into actionable insights.
+
+My skill set includes proficiency in **Python** 🐍, **MySQL** 🗄️, **Power BI** 📈, and **Excel** 📊, which I leverage to uncover insights and drive data-driven decisions. I thrive on solving complex problems 🧩, transforming raw data into clear visualizations 🌟, and helping organizations make informed, data-backed decisions 💡.
+
+I love working on projects 🚀 that involve transforming complex datasets into simple, easy-to-understand visual representations 📉. Whether it’s performing data analysis using Python 🐍, building interactive dashboards with Power BI 📊, or writing SQL queries 📝 to extract data, I’m always eager to apply my skills and learn new techniques 🧠.
+
 
 ---
 
@@ -26,16 +32,12 @@ I am a passionate and detail-oriented **Data Analyst** with expertise in data vi
 
 ## 💡 Key Strengths
 
-- **Analytical Thinking**: Combining complex data into clear, actionable insights.
-- **Problem Solving**: Focused on identifying issues and providing data-driven solutions.
-- **Attention to Detail**: Ensuring data accuracy and consistency across all analyses.
-- **Communication Skills**: Translating complex data insights into simple business solutions.
-- **Collaboration**: Experienced in working in cross-functional teams to achieve data-driven goals.
-- **Time Management**: Ability to prioritize tasks and deliver high-quality results within deadlines.
-
----
-
-
+- **Analytical Thinking** 🧠
+- **Problem Solving** 🧩
+- **Attention to Detail** 🔍
+- **Communication Skills** 💬
+- **Collaboration** 🤝
+- **Time Management** ⏰
 
 ---
 
@@ -55,6 +57,14 @@ Check out my projects below to see how I use my skills to analyze data and deliv
   ![Revenue Data Project](https://img.shields.io/badge/Revenue%20Data%20Analytics-blue?style=for-the-badge)
 
 ---
+## 📬 You can also connect me on
+
+Feel free to reach out to me for collaboration or any inquiries:
+
+- Email: [Sakshiballb@gmail.com](mailto:Sakshiballb@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sakshi-prajapati-31b990205/)
+  
+---
 
 ## 📊 GitHub Stats
 
@@ -62,11 +72,5 @@ Check out my projects below to see how I use my skills to analyze data and deliv
 
 ---
 
-## 📬 Let's Connect
-
-Feel free to reach out to me for collaboration or any inquiries:
-
-- Email: [Sakshiballb@gmail.com](mailto:Sakshiballb@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sakshi-prajapati-31b990205/)
 
 Thank you for visiting my GitHub! 🙏

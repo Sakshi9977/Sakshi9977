@@ -44,8 +44,7 @@ Check out my projects below to see how I use my skills to analyze data and deliv
 
 <img src="https://github.com/Sakshi9977/-Solar-Power-Data-Analysis-and-Visualization/blob/3fe4edcfabbef6a1d4c9e0bcbd19a3ec32d1fde3/Solar%20Project%20logo.jpg" alt="Solar Power Project Logo" width="200">
 
-
-  A Python-based analysis of large datasets to extract insights and trends.
+This project focuses on analyzing solar power generation data from two plants. We aim to extract insights, visualize trends, and build an interactive dashboard using Streamlit to help stakeholders manage solar power generation efficiently.
 
 
 
@@ -54,7 +53,7 @@ Check out my projects below to see how I use my skills to analyze data and deliv
 <img src="https://github.com/Sakshi9977/Revenue-Data-Analytics-Project/blob/f9fc45b7c40532908c1de3103f4dd943f680363b/Revenu%20project%20logo.jpg" alt="Revenue Data Analytics Project Logo" width="200">
 
 
-  Revenue Data Analysis Project, a strategic initiative designed to transform raw financial data into actionable business insights. Our project encompasses an in-depth analysis of revenue streams across multiple categories, products, and geographical locations.
+This project is an interactive dashboard designed to visualize and analyze land revenue data across various U.S. states and counties. The dashboard helps users explore trends in revenues generated from land leases, commodities, and products. It provides insights through metrics such as total revenues, revenue types, and the contribution of commodities.
 
  
 

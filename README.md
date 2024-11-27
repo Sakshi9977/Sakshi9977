@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile! 👋
 
 <p align="center">
-  <img src="https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-19845.jpg?w=1060" alt="Data Visualization Image" width="80%" height="auto">
+  <img src="https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-19845.jpg?w=1060" alt="Data Visualization Image" width="70%" height="auto">
 </p>
 
 
@@ -23,23 +23,14 @@ I love working on projects 🚀 that involve transforming complex datasets into 
 ## 📊 Tech Stack
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white =150x)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white =150x)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black =150x)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white =150x)
+
 
 ---
 
-## 💡 Key Strengths
-
-- **Analytical Thinking** 🧠
-- **Problem Solving** 🧩
-- **Attention to Detail** 🔍
-- **Communication Skills** 💬
-- **Collaboration** 🤝
-- **Time Management** ⏰
-
----
 
 ## 📈 Projects
 

@@ -38,7 +38,6 @@ I love working on projects 🚀 that involve transforming complex datasets into 
 
 ## 📈 Projects
 
-Check out my projects below to see how I use my skills to analyze data and deliver solutions!
 
 - [**Project 1: Data Analysis with Python**](https://github.com/Sakshi9977/-Solar-Power-Data-Analysis-and-Visualization)
 
@@ -70,8 +69,6 @@ Feel free to reach out to me for collaboration or any inquiries:
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshi9977&show_icons=true&count_private=true&hide=prs&theme=radical&hide_border=true)
-
----
 
 ### Top Languages
 

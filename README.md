@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile! 👋
 
 <p align="center">
-  <img src="https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-19845.jpg?w=1060" alt="Data Visualization Image" width="70%" height="auto">
+  <img src="https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-19845.jpg?w=1060" alt="Data Visualization Image" width="50%" height="auto">
 </p>
 
 
@@ -49,7 +49,11 @@ Check out my projects below to see how I use my skills to analyze data and deliv
 
 
 
-- [**Project 2: Data Visualization on Power BI**](https://github.com/Sakshi9977/Revenue-Data-Analytics-Project)  
+- [**Project 2: Data Visualization on Power BI**](https://github.com/Sakshi9977/Revenue-Data-Analytics-Project)
+
+<img src="https://github.com/Sakshi9977/Revenue-Data-Analytics-Project/blob/f9fc45b7c40532908c1de3103f4dd943f680363b/Revenu%20project%20logo.jpg" alt="Revenue Data Analytics Project Logo" width="200">
+
+
   Revenue Data Analysis Project, a strategic initiative designed to transform raw financial data into actionable business insights. Our project encompasses an in-depth analysis of revenue streams across multiple categories, products, and geographical locations.
 
  

@@ -41,7 +41,10 @@ I love working on projects 🚀 that involve transforming complex datasets into 
 Check out my projects below to see how I use my skills to analyze data and deliver solutions!
 
 - [**Project 1: Data Analysis with Python**](https://github.com/Sakshi9977/-Solar-Power-Data-Analysis-and-Visualization)
-- ![image_alt](https://github.com/Sakshi9977/-Solar-Power-Data-Analysis-and-Visualization/blob/main/Solar%20Project%20logo.jpg)  
+
+<img src="https://github.com/Sakshi9977/-Solar-Power-Data-Analysis-and-Visualization/blob/3fe4edcfabbef6a1d4c9e0bcbd19a3ec32d1fde3/Solar%20Project%20logo.jpg" alt="Solar Power Project Logo" width="200">
+
+
   A Python-based analysis of large datasets to extract insights and trends.
 
 

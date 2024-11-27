@@ -44,15 +44,15 @@ Check out my projects below to see how I use my skills to analyze data and deliv
 - ![image_alt](https://github.com/Sakshi9977/-Solar-Power-Data-Analysis-and-Visualization/blob/main/Solar%20Project%20logo.jpg)  
   A Python-based analysis of large datasets to extract insights and trends.
 
-  ![Solar Power Project](https://img.shields.io/badge/Solar%20Power%20Data%20Analysis-green?style=for-the-badge)
+
 
 - [**Project 2: Data Visualization on Power BI**](https://github.com/Sakshi9977/Revenue-Data-Analytics-Project)  
   Revenue Data Analysis Project, a strategic initiative designed to transform raw financial data into actionable business insights. Our project encompasses an in-depth analysis of revenue streams across multiple categories, products, and geographical locations.
 
-  ![Revenue Data Project](https://img.shields.io/badge/Revenue%20Data%20Analytics-blue?style=for-the-badge)
+ 
 
 ---
-## 📬 You can also connect me on
+## 📬 Connect me 
 
 Feel free to reach out to me for collaboration or any inquiries:
 
@@ -63,9 +63,20 @@ Feel free to reach out to me for collaboration or any inquiries:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshi9977&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshi9977&show_icons=true&count_private=true&hide=prs&theme=radical&hide_border=true)
 
 ---
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi9977&langs_count=8&theme=radical&hide_border=true)
+
+---
+
+### GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sakshi9977&theme=radical&hide_border=true)
+
 
 
 Thank you for visiting my GitHub! 🙏

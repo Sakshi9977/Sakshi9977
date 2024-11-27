@@ -1,6 +1,6 @@
 # Sakshi Prajapati - Data Analyst
 
-![Data Analysis GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F669417932096614000%2F&psig=AOvVaw15LprQsS66M5OMaCFqRb-a&ust=1732784151585000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCimpOS_IkDFQAAAAAdAAAAABAE) 
+![Data Analysis GIF]https://i.pinimg.com/originals/26/d2/67/26d26785ba961b7463a2db7ec645d07f.gif) 
 
 Welcome to my GitHub profile! 👋
 

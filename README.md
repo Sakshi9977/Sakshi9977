@@ -2,12 +2,16 @@
 
 
 ![image_alt](https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-19845.jpg?w=1060) 
+<img src="https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-19845.jpg?w=1060" alt="Data Visualization Image" width="300" height="200">
 
 
 Hi! 👋 I’m **Sakshi Prajapati**, a passionate **Data Analyst** with expertise in **data visualization** 📊, **reporting** 📝, and **analysis** 🔍. 
+
 🎓 I’ve completed my training in Data Analytics at **Masai School** ,🎯 where I developed a strong foundation in analyzing and transforming data into actionable insights.
 
-My skill set includes proficiency in **Python** 🐍, **MySQL** 🗄️, **Power BI** 📈, and **Excel** 📊, which I leverage to uncover insights and drive data-driven decisions. I thrive on solving complex problems 🧩, transforming raw data into clear visualizations 🌟, and helping organizations make informed, data-backed decisions 💡.
+My skill set includes proficiency in **Python** 🐍, **MySQL** 🗄️, **Power BI** 📈, and **Excel** 📊, which I leverage to uncover insights and drive data-driven decisions. 
+
+I thrive on solving complex problems 🧩, transforming raw data into clear visualizations 🌟, and helping organizations make informed, data-backed decisions 💡.
 
 I love working on projects 🚀 that involve transforming complex datasets into simple, easy-to-understand visual representations 📉. Whether it’s performing data analysis using Python 🐍, building interactive dashboards with Power BI 📊, or writing SQL queries 📝 to extract data, I’m always eager to apply my skills and learn new techniques 🧠.
 
@@ -17,11 +21,6 @@ I love working on projects 🚀 that involve transforming complex datasets into 
 
 ## 📊 Tech Stack
 
-- **Data Analysis & Visualization**: Expertise in transforming raw data into meaningful insights.
-- **Python**: Proficient in data manipulation, cleaning, and analysis using libraries like Pandas, NumPy, and Matplotlib.
-- **SQL & MySQL**: Strong skills in querying databases, data extraction, and manipulation.
-- **Power BI**: Experienced in creating interactive dashboards and reports for business intelligence.
-- **Excel**: Advanced Excel skills, including pivot tables, advanced formulas, and data visualization.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 

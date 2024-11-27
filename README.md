@@ -1,8 +1,9 @@
 ## Welcome to my GitHub profile! 👋
 
+<p align="center">
+  <img src="https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-19845.jpg?w=1060" alt="Data Visualization Image" width="80%" height="auto">
+</p>
 
-![image_alt](https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-19845.jpg?w=1060) 
-<img src="https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-19845.jpg?w=1060" alt="Data Visualization Image" width="300" height="200">
 
 
 Hi! 👋 I’m **Sakshi Prajapati**, a passionate **Data Analyst** with expertise in **data visualization** 📊, **reporting** 📝, and **analysis** 🔍. 

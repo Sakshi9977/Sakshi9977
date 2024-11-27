@@ -44,7 +44,7 @@ I am a passionate and detail-oriented **Data Analyst** with expertise in data vi
 Check out my projects below to see how I use my skills to analyze data and deliver solutions!
 
 - [**Project 1: Data Analysis with Python**](https://github.com/Sakshi9977/-Solar-Power-Data-Analysis-and-Visualization)
-- (https://github.com/Sakshi9977/-Solar-Power-Data-Analysis-and-Visualization/blob/main/Solar%20Project%20logo.jpg)  
+- ![image_alt](https://github.com/Sakshi9977/-Solar-Power-Data-Analysis-and-Visualization/blob/main/Solar%20Project%20logo.jpg)  
   A Python-based analysis of large datasets to extract insights and trends.
 
   ![Solar Power Project](https://img.shields.io/badge/Solar%20Power%20Data%20Analysis-green?style=for-the-badge)

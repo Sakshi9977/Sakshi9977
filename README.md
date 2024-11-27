@@ -1,6 +1,6 @@
 # Sakshi Prajapati - Data Analyst
 
-![Data Analysis GIF]https://i.pinimg.com/originals/26/d2/67/26d26785ba961b7463a2db7ec645d07f.gif) 
+(https://www.simplilearn.com/ice9/free_resources_article_thumb/Data_Visualization_Tools.jpg) 
 
 Welcome to my GitHub profile! 👋
 

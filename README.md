@@ -63,6 +63,8 @@ Feel free to reach out to me for collaboration or any inquiries:
 
 - Email: [Sakshiballb@gmail.com](mailto:Sakshiballb@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sakshi-prajapati-31b990205/)
+- LeetCode: [LeetCode Profile](https://leetcode.com/u/sakshiPrajapati)
+- HackerRank: [Hackerrank Profile](https://www.hackerrank.com/profile/sakshiballb)
   
 ---
 

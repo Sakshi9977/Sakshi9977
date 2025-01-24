@@ -9,16 +9,41 @@
 ### 🏆 Profile Badges
 <table align="center">
   <tr>
-    <td>🏆 <b>PullRequest:</b> High Puller (20pt)</td>
-    <td>🏆 <b>Commits:</b> Middle Committer (68pt)</td>
-    <td>🏆 <b>Experience:</b> Junior Dev (10pt)</td>
+    <td>🏆 <b>PullRequest:</b> 
+        <a href="https://github.com/Sakshi9977/pulls" target="_blank">
+            <img src="https://img.shields.io/badge/PullRequest-High%20Puller-0e75b6?style=flat&logo=github" alt="PullRequest Badge"/>
+        </a>
+    </td>
+    <td>🏆 <b>Commits:</b> 
+        <a href="https://github.com/Sakshi9977/commits" target="_blank">
+            <img src="https://img.shields.io/badge/Commits-Middle%20Committer-ffa500?style=flat&logo=github" alt="Commits Badge"/>
+        </a>
+    </td>
+    <td>🏆 <b>Experience:</b> 
+        <a href="https://github.com/Sakshi9977" target="_blank">
+            <img src="https://img.shields.io/badge/Experience-Junior%20Dev-008000?style=flat&logo=github" alt="Experience Badge"/>
+        </a>
+    </td>
   </tr>
   <tr>
-    <td>🏆 <b>Followers:</b> First Friend (7pt)</td>
-    <td>🏆 <b>Repositories:</b> First Repository (8pt)</td>
-    <td>🏆 <b>Stars:</b> Unknown</td>
+    <td>🏆 <b>Followers:</b> 
+        <a href="https://github.com/Sakshi9977" target="_blank">
+            <img src="https://img.shields.io/badge/Followers-First%20Friend-1c1c1c?style=flat&logo=github" alt="Followers Badge"/>
+        </a>
+    </td>
+    <td>🏆 <b>Repositories:</b> 
+        <a href="https://github.com/Sakshi9977" target="_blank">
+            <img src="https://img.shields.io/badge/Repositories-First%20Repository-7f3f98?style=flat&logo=github" alt="Repositories Badge"/>
+        </a>
+    </td>
+    <td>🏆 <b>Stars:</b> 
+        <a href="https://github.com/Sakshi9977" target="_blank">
+            <img src="https://img.shields.io/badge/Stars-Unknown-fafafa?style=flat&logo=github" alt="Stars Badge"/>
+        </a>
+    </td>
   </tr>
 </table>
+
 
 ---
 

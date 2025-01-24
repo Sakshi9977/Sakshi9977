@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sakshi</h1>
+<h1 align="center">Hi 👋, I'm Sakshi Prajapati</h1>
 <h3 align="center">A passionate Data Analyst and aspiring Data Scientist from India 🌏</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sakshi9977&label=Profile%20views&color=0e75b6&style=flat" alt="Sakshi9977" />
@@ -24,29 +24,30 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
+  <a href="https://www.linkedin.com/in/sakshi-prajapati-31b990205/" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter" alt="Twitter" />
-  </a>
-  <a href="https://youtube.com/your-channel-link" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube" alt="YouTube" />
-  </a>
-  <a href="https://www.kaggle.com/your-kaggle-profile" target="blank">
+   </a>
+  <a href="https://www.kaggle.com/sakshi1117" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Kaggle-gray?style=flat&logo=kaggle" alt="Kaggle" />
   </a>
+  <a href="https://www.hackerrank.com/profile/sakshiballb" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-HackerRank-brightgreen?style=flat&logo=hackerrank" alt="HackerRank" />
+  </a>
+  <a href="https://leetcode.com/u/sakshiPrajapati/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode" alt="LeetCode" />
+  </a>
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Naukri-blue?style=flat&logo=naukri" alt="Naukri" />
+  </a>
 </p>
-
 ---
 
 ### 🧑‍💻 About Me
-I am a passionate **Data Analyst** with a love for extracting insights from data. I am constantly learning new techniques in **Machine Learning**, **Data Science**, and **Artificial Intelligence** to enhance my skills. My goal is to continue growing as a **Data Scientist** and to contribute towards solving meaningful real-world problems through data-driven solutions.
+I am a passionate **Data Analyst** who loves extracting insights from data. I constantly learn new techniques in **Data Science** to enhance my skills. I aim to continue growing as a **Data Scientist** and contribute towards solving meaningful real-world problems through data-driven solutions.
 
-- 🎓 **Bachelor's in Computer Science**
-- 🌱 Currently learning **Deep Learning**, **NLP**, and **Cloud Computing**.
+- 🎓 **Learned Data Analysis at Masai School**
 - 📈 Data visualization enthusiast with a knack for turning data into insightful charts and dashboards.
-- 🤖 Always experimenting with **Python**, **Pandas**, **NumPy**, and **Machine Learning** algorithms.
+- 🤖 Always experimenting with **Python**, **Pandas**, and **NumPy**.
 - 💬 Let's connect! I’m always open to discussions and collaborations.
 
 ---
@@ -61,9 +62,7 @@ I am a passionate **Data Analyst** with a love for extracting insights from data
   <img src="https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=seaborn" />
   <img src="https://img.shields.io/badge/-Microsoft%20Excel-green?style=flat&logo=microsoftexcel" />
   <img src="https://img.shields.io/badge/-Power%20BI-yellow?style=flat&logo=powerbi" />
-  <img src="https://img.shields.io/badge/-Streamlit-orange?style=flat&logo=streamlit" />
-  <img src="https://img.shields.io/badge/-Tableau-lightblue?style=flat&logo=tableau" />
-</p>
+  </p>
 
 ---
 

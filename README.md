@@ -46,6 +46,32 @@
 
 
 ---
+### 🛠 Technologies & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white&width=120" />
+  <img src="https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white&width=120" />
+  <img src="https://img.shields.io/badge/-NumPy-blue?style=flat&logo=numpy&logoColor=white&width=120" />
+  <img src="https://img.shields.io/badge/-Matplotlib-orange?style=flat&logo=matplotlib&logoColor=white&width=120" />
+  <img src="https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=seaborn&logoColor=white&width=120" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-MySQL-lightgrey?style=flat&logo=mysql&logoColor=white&width=120" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Excel-green?style=flat&logo=microsoftexcel&logoColor=white&width=120" />
+  <img src="https://img.shields.io/badge/-Power%20BI-yellow?style=flat&logo=powerbi&logoColor=white&width=120" />
+</p>
+
+---
+
+
+### 🧑‍💻 About Me
+I am a passionate **Data Analyst** who loves extracting insights from data. I constantly learn new techniques in **Data Science** to enhance my skills. I aim to continue growing as a **Data Scientist** and contribute towards solving meaningful real-world problems through data-driven solutions.
+
+- 🎓 **Learned Data Analysis at Masai School**
+- 📈 Data visualization enthusiast with a knack for turning data into insightful charts and dashboards.
+- 🤖 Always experimenting with **Python**, **Pandas**, and **NumPy**.
+- 💬 Let's connect! I’m always open to discussions and collaborations.
+
+---
 
 ### 🌐 Connect with Me
 <p align="center">
@@ -67,29 +93,6 @@
 </p>
 ---
 
-### 🧑‍💻 About Me
-I am a passionate **Data Analyst** who loves extracting insights from data. I constantly learn new techniques in **Data Science** to enhance my skills. I aim to continue growing as a **Data Scientist** and contribute towards solving meaningful real-world problems through data-driven solutions.
-
-- 🎓 **Learned Data Analysis at Masai School**
-- 📈 Data visualization enthusiast with a knack for turning data into insightful charts and dashboards.
-- 🤖 Always experimenting with **Python**, **Pandas**, and **NumPy**.
-- 💬 Let's connect! I’m always open to discussions and collaborations.
-
----
-
-### 🛠 Technologies & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-MySQL-lightgrey?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas" />
-  <img src="https://img.shields.io/badge/-NumPy-blue?style=flat&logo=numpy" />
-  <img src="https://img.shields.io/badge/-Matplotlib-orange?style=flat&logo=matplotlib" />
-  <img src="https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=seaborn" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Excel-green?style=flat&logo=microsoftexcel" />
-  <img src="https://img.shields.io/badge/-Power%20BI-yellow?style=flat&logo=powerbi" />
-  </p>
-
----
 
 ### 📊 GitHub Stats
 <p align="center">

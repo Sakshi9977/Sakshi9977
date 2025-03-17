@@ -21,21 +21,20 @@
 
 ## 🏆 Featured Projects
 
-### 1️⃣ **[Online Retail Sales Dashboard (Power BI)](your_project_link_here)**
-- 📊 Created an **interactive sales dashboard** to track revenue, customer behavior, and trends.
-- 🛍️ Analyzed **customer segmentation & seasonal trends** to improve business decisions.
+### 1️⃣ **[E-Commerce Sales & Customer Insights Analysis](https://github.com/Sakshi9977/E-Commerce-Sales-Customer-Insights-Analysis)**
+- 📊 Performed deep **sales and customer analysis** to uncover key trends.
+- 📈 Built **data-driven insights** to help optimize e-commerce business strategies.
 
-### 2️⃣ **[Customer Churn Prediction (SQL + Python)](your_project_link_here)**
-- 🔍 Used **SQL queries** for data cleaning & feature engineering.
-- 📈 Built a **Logistic Regression model** to predict customer churn.
+### 2️⃣ **[Revenue Data Analytics Project](https://github.com/Sakshi9977/Revenue-Data-Analytics-Project)**
+- 💰 Conducted an **in-depth revenue analysis** to identify patterns in financial performance.
+- 📉 Created **visual reports** for better financial decision-making.
 
-### 3️⃣ **[E-commerce Data Analysis (SQL + Tableau)](your_project_link_here)**
-- 🛒 Extracted insights from e-commerce data to analyze **profitability & customer preferences**.
-- 📊 Built interactive **Tableau dashboards** for stakeholders.
+### 3️⃣ **[Solar Power Data Analysis & Visualization](https://github.com/Sakshi9977/-Solar-Power-Data-Analysis-and-Visualization)**
+- ☀️ Analyzed **solar power generation trends** across multiple locations.
+- 📊 Built **interactive visualizations** to monitor energy efficiency.
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](your_linkedin_link_here)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff5722?style=flat&logo=google-chrome&logoColor=white)](your_portfolio_link_here)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-prajapati-31b990205/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sakshi9977)
 
 ⭐ **Keep Learning. Keep Growing.** 🚀

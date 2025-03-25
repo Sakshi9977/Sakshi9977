@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 - 📊 **Aspiring Data Analyst** passionate about data-driven decision-making.
-- 🎓 **Law Graduate**, now transitioning into the world of **Data & Business Analytics**.
+- 🎓 Now transitioning into the world of **Data & Business Analytics**.
 - 📈 Skilled in **SQL, Python, Power BI, Excel, and Data Visualization**.
 - 🚀 Currently exploring **Machine Learning for Business Insights**.
 
